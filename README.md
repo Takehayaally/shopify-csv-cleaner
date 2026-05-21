@@ -12,6 +12,13 @@ python products/shopify-csv-cleaner/shopify_csv_cleaner.py --input products/shop
 
 The script writes a cleaned CSV even when warnings are present.
 
+## Example Output
+
+The `examples/` folder includes:
+
+- `products.cleaned.csv`
+- `report.md`
+
 ## Paid Bundle
 
 Launch price: $19 on Gumroad. The paid bundle is planned to include bulk examples, import checklist, and a commercial-use license.
