@@ -1,0 +1,4 @@
+Handle,Title,Variant SKU,Variant Price,Variant Compare At Price,Published
+basic-shirt, Basic Shirt ,SKU-001,"$19.00","$29.00",TRUE
+basic-shirt, Basic Shirt Blue ,SKU-001,"19",,TRUE
+,Missing Handle Product,SKU-003,not-a-price,,FALSE
